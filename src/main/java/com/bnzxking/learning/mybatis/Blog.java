@@ -1,4 +1,4 @@
-package com.bnzxking.leaning.mybatis;
+package com.bnzxking.learning.mybatis;
 
 /**
  * Created by bnzxking on 2018/5/2.

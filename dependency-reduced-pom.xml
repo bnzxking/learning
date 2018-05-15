@@ -36,7 +36,7 @@
                   <resource>META-INF/spring.schemas</resource>
                 </transformer>
                 <transformer>
-                  <mainClass>com.bnzxking.leaning.mybatis.SimpleExample</mainClass>
+                  <mainClass>com.bnzxking.learning.mybatis.SimpleExample</mainClass>
                 </transformer>
               </transformers>
               <filters>

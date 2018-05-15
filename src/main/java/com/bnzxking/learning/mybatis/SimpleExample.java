@@ -1,4 +1,4 @@
-package com.bnzxking.leaning.mybatis;
+package com.bnzxking.learning.mybatis;
 
 
 import org.apache.ibatis.io.Resources;
