@@ -274,5 +274,5 @@ public abstract class FileChannel extends AbstractChannel implements 			ByteChan
 
 新的 socket 通道类可以***运行非阻塞模式并且是可选择的***。这两个性能可以激活大程序巨大的可伸缩性和灵活性。本节中我们会看到，再也没有为每个 socket 连接使用一个线程的必要了，也避免了管理大量线程所需的上下文交换总开销。借助新的 NIO 类，一个或几个线程就可以管理成百上千的活动 socket 连接了并且只有很少甚至可能没有性能损失。
 
-![1528185726648](assets/1528185726648.png)
+![1528185726648](https://i.imgur.com/nYqikR0.png)
 
